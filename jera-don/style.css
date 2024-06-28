@@ -12,3 +12,45 @@ h1 {
 	height: 100%;
 	border-radius: 20px;
 }
+
+h1{
+    text-shadow:#cccccc 2px 2px;
+    color:#eea177;
+    background-color:#ccccee;
+    text-align:center;
+    padding: 10px 10px 10px 10px;
+}
+
+h2{
+    background-color: #ccccee;
+    border-bottom: solid 3px #7777ee;
+    padding: 10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;
+}
+body{
+    font-family:sans-serif;
+    margin:10px 10px 10px 10px;
+}
+th{
+    background-color: #cccccc;
+    padding: 5px 5px 5px 5px;
+}
+td:first-child{
+    background-color: #cccccc;
+}
+td{
+	width: 400px;
+    background-color: #eeeeee;
+    padding: 5px 5px 5px 5px;
+}
+form{
+    background-color: #eeeeee;
+    border: solid medium #cccccc;
+    margin:10px 10px 10px 10px;
+}
+p{
+    margin:10px 10px 10px 10px;
+}
+table{
+    margin:10px 10px 10px 10px;
+}
