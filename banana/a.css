@@ -1,21 +1,6 @@
-h1 {
-    text-align: center;
-}
-
-.youtube {
-	width: 100%;
-	aspect-ratio: 16 / 9;
-}
-
-.youtube iframe {
-	width: 100%;
-	height: 100%;
-	border-radius: 20px;
-}
-
 h1{
     text-shadow:#cccccc 2px 2px;
-    color:#eea177;
+    color:#eeee77;
     background-color:#ccccee;
     text-align:center;
     padding: 10px 10px 10px 10px;
@@ -39,7 +24,6 @@ td:first-child{
     background-color: #cccccc;
 }
 td{
-	width: 400px;
     background-color: #eeeeee;
     padding: 5px 5px 5px 5px;
 }
@@ -54,3 +38,9 @@ p{
 table{
     margin:10px 10px 10px 10px;
 }
+img{
+    width:400px;
+
+}
+
+
